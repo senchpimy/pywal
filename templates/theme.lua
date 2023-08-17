@@ -15,6 +15,7 @@ theme.font          = "Hack 8"
 
 theme.bg_normal     = "{color0}"
 theme.bg_focus      = "{color1}"
+theme.bg_extra      = "{color3}"
 theme.bg_urgent     = "#92172E"
 theme.bg_minimize   = "{color2}"
 theme.bg_systray    = theme.bg_normal
